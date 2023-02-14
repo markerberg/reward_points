@@ -1,0 +1,14 @@
+.App {
+  text-align: center;
+  display: flex;
+  flex-flow: column;
+  align-items: center;
+  justify-content: start;
+  max-width: 500px;
+}
+
+.reward-item {
+  border: 1px solid;
+  padding: 10px;
+  min-width: 300px;
+}
